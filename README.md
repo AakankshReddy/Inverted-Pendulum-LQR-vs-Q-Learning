@@ -312,5 +312,4 @@ eigenvalues `[-7.09, -84.22]` — independently re-derived via
   — it does not model sensor noise, actuator faults, or communication
   delay, which would be natural next steps for a more complete
   robustness study.
-# Adaptive-Noise-Cancellation-Investigation
-# Adaptive-Noise-Cancellation-Investigation
+
